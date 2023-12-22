@@ -1,0 +1,12 @@
+/Users/kim/RUST_STUDY/RUST_BJStep_3/hello/target/debug/deps/iowrap-b70aa68839b8bb71.rmeta: /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/lib.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/eof.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/ignore.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/many.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/pos.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/short.rs
+
+/Users/kim/RUST_STUDY/RUST_BJStep_3/hello/target/debug/deps/libiowrap-b70aa68839b8bb71.rlib: /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/lib.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/eof.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/ignore.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/many.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/pos.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/short.rs
+
+/Users/kim/RUST_STUDY/RUST_BJStep_3/hello/target/debug/deps/iowrap-b70aa68839b8bb71.d: /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/lib.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/eof.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/ignore.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/many.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/pos.rs /Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/short.rs
+
+/Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/lib.rs:
+/Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/eof.rs:
+/Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/ignore.rs:
+/Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/many.rs:
+/Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/pos.rs:
+/Users/kim/.cargo/registry/src/index.crates.io-6f17d22bba15001f/iowrap-0.1.2/src/short.rs:
