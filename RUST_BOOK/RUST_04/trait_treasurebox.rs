@@ -1,9 +1,14 @@
+
+//보물상자의 동작을 정의하는 트레잇
+//1
 trait TreasureBox
 {
     fn open(&self, key_no: i32) -> bool;
     fn check(&self);
 }
 
+// 보석이 든 상자의 구조체를 정의
+//2
 struct JewerlyBox
 {
     price: i32,
@@ -23,6 +28,8 @@ impl TreasureBox for JewerlyBox
     }
 }
 
+//함정 상자의 구조체를 정의
+//3
 struct TrapBox 
 {
     damage: i32,
@@ -41,6 +48,8 @@ impl TreasureBox for TrapBox
     }
 }
 
+// 모험가가 상자를 여는 동작
+//4
 fn open_box(tbox: &impl TreasureBox, key_no: i32)
 {
     if !tbox.open(key_no)
@@ -52,6 +61,8 @@ fn open_box(tbox: &impl TreasureBox, key_no: i32)
     tbox.check();
 }
 
+//메인 함수
+//5
 fn main()
 {
     let box1 = JewerlyBox
@@ -68,6 +79,7 @@ fn main()
         key_no: 2,
     };
 
+    //6
     let my_key = 2;
     open_box(&box1, my_key);
     open_box(&box2, my_key);
